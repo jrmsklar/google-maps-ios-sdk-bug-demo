@@ -4,5 +4,6 @@
 # use_frameworks!
 
 target 'GoogleMapsBugDemo' do
+	pod 'GoogleMaps'
 end
 
